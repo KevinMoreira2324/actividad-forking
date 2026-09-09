@@ -6,4 +6,6 @@ Datos del estudiante:
 Nombre:Univ. Kevin Andres Moreira Vincenti
 Carrera: Ingeniería Informatica
 Semestre: Cuarto
-Mención: Desarrollo de Software 
+Mención: Desarrollo de Software
+Ciudad: Oruro
+Telefono: 75403709
