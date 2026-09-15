@@ -9,4 +9,3 @@ Semestre: Cuarto
 Mención: Desarrollo de Software
 Ciudad: Oruro
 Telefono: 75403709
-zxc
