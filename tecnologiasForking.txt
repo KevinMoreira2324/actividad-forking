@@ -1,4 +1,4 @@
-TECNOLOGÍAS
+---TECNOLOGÍAS---
 
 Tecnologías conocidas:
 Git
